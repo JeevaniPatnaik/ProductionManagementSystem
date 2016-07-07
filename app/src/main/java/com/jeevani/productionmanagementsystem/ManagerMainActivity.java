@@ -89,7 +89,9 @@ public class ManagerMainActivity extends AppCompatActivity {
         fab1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(),"Fab-1",Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(),"Fab-1",Toast.LENGTH_SHORT).show();
+                Intent intent1=new Intent(getApplicationContext(),ManagerAddJobActivity.class);
+                startActivity(intent1);
             }
         });
 
@@ -97,7 +99,9 @@ public class ManagerMainActivity extends AppCompatActivity {
         fab2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(),"Fab-2",Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(),"Fab-2",Toast.LENGTH_SHORT).show();
+                Intent intent2=new Intent(getApplicationContext(),ManagerAssignJobActivity.class);
+                startActivity(intent2);
             }
         });
 

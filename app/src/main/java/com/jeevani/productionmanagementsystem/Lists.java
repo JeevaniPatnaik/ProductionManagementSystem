@@ -15,13 +15,13 @@ public class Lists {
                 case 0:
                     return R.drawable.cheese_1;
                 case 1:
-                    return R.drawable.cheese_2;
+                    return R.drawable.cheese_1;
                 case 2:
-                    return R.drawable.cheese_3;
+                    return R.drawable.cheese_1;
                 case 3:
-                    return R.drawable.cheese_4;
+                    return R.drawable.cheese_1;
                 case 4:
-                    return R.drawable.cheese_5;
+                    return R.drawable.cheese_1;
             }
         }
 
@@ -40,7 +40,7 @@ public class Lists {
                 "Bleu de Septmoncel", "Bleu Des Causses", "Blue", "Blue Castello", "Blue Rathgore",
                 "Blue Vein (Australian)", "Blue Vein Cheeses", "Bocconcini", "Bocconcini (Australian)",
                 "Boeren Leidenkaas", "Bonchester", "Bosworth", "Bougon", "Boule Du Roves",
-                "Boulette d'Avesnes", "Boursault", "Boursin", "Bouyssou", "Bra", "Braudostur",
+                "Boulette d'Avesnes", "Boursault", "Boursin", "Bouyssou", "Braudostur",
                 "Breakfast Cheese", "Brebis du Lavort", "Brebis du Lochois", "Brebis du Puyfaucon",
                 "Bresse Bleu", "Brick", "Brie", "Brie de Meaux", "Brie de Melun", "Brillat-Savarin",
                 "Brin", "Brin d' Amour", "Brin d'Amour", "Brinza (Burduf Brinza)",

@@ -33,4 +33,19 @@
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
     <string name="play_again">Play Again</string>
 
+    <!--Spinner-->
+    <!-- prompt string is the string that initially show in spinner  -->
+    <string name="assign_jobs">Select Job</string>
+    <!--string-array is the item list we going to show for selection in spinner -->
+    <string-array name="job_assignment">
+        <item>Salesman</item>
+        <item>Clerk</item>
+        <item>Manager</item>
+        <item>Maintenance</item>
+        <item>Repairman</item>
+        <item>Quality Analyst</item>
+        <item>Market Analyzer</item>
+        <item>Transporter</item>
+    </string-array>
+
 </resources>
